@@ -1,0 +1,32 @@
+body{
+    background: black;
+    
+}
+.titulo_pessoal{
+    text-align: center;
+    background-color: aliceblue;
+
+}
+
+.texto_pessoal{
+    text-align: center;
+    background-color: aliceblue;
+}
+.titulo_fotos{
+    text-align: center;
+    background-color: aliceblue
+}
+
+.texto_fotos{
+    text-align: center;
+    background-color: aliceblue
+}
+
+.texto_habilidades{
+    text-align: center;
+    background-color: aliceblue
+}
+.titulo_habilidades{
+    text-align: center;
+    background-color: aliceblue
+}
